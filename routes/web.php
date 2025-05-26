@@ -11,5 +11,5 @@ Route::get('/', function () {
 
 //minha rota fds
 Route::get('/b', function(){
-    echo 'random';
+    echo 'rantestedom';
 });
